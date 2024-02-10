@@ -7,6 +7,7 @@ An application that enables users to copy symbols and integrate them into their 
 Supported iOS (it should work)!
 
 15.0-16.0 (kfd-mdc)
+
 16.0-17.0+ (kfd-mdc)
 
 More Updates for this app?
